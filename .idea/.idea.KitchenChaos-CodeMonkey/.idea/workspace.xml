@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e5a7569-5cd9-49af-96a9-51e73031bc03" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.KitchenChaos-CodeMonkey/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KitchenChaos-CodeMonkey/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-    </list>
+    <list default="true" id="2e5a7569-5cd9-49af-96a9-51e73031bc03" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683866839309</updated>
       <workItem from="1683866843170" duration="594000" />
-      <workItem from="1683870814977" duration="1227000" />
+      <workItem from="1683870814977" duration="1548000" />
     </task>
     <servers />
   </component>
