@@ -9,19 +9,13 @@ public class Player : MonoBehaviour
     
     private bool isWalking = false;
     private Vector3 lastInteractDir;
-    
-    private void Update()
-    {
-        HandleMovement();
-        HandleInteractions();
-    }
-    
-    public bool IsWalking()
-    {
-        return isWalking;
-    }
 
-    private void HandleInteractions()
+    private void Start()
+    {
+        gameInput.OnInteractAction += GameInput_OnInteractAction;
+    }
+    
+    private void GameInput_OnInteractAction(object sender, EventArgs e)
     {
         Vector2 inputVector = gameInput.GetMovementVectorNormalized();
         
@@ -41,6 +35,16 @@ public class Player : MonoBehaviour
                 clearCounter.Interact();
             }
         }
+    }
+
+    private void Update()
+    {
+        HandleMovement();
+    }
+    
+    public bool IsWalking()
+    {
+        return isWalking;
     }
 
     private void HandleMovement()
