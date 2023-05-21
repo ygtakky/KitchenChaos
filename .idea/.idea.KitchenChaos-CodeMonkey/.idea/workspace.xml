@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2e5a7569-5cd9-49af-96a9-51e73031bc03" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.KitchenChaos-CodeMonkey/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KitchenChaos-CodeMonkey/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/CuttingCounter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/CuttingCounter.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/MeatPattyUncooked.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/MeatPattyUncooked.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/MeatPattyUncooked.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/MeatPattyUncooked.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Counters/BaseCounter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Counters/BaseCounter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Counters/CuttingCounter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Counters/CuttingCounter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ProgressBarUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ProgressBarUI.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +18,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Counters/PlatesCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Counters/PlatesCounterVisual.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Counters/StoveCounter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Counters/StoveCounterVisual.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Counters/ThrashCounter.cs" root0="FORCE_HIGHLIGHTING" />
@@ -95,7 +91,7 @@
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
-      <option name="listenPortForConnections" value="false" />
+      <option name="listenPortForConnections" value="true" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
@@ -118,7 +114,8 @@
       <workItem from="1684191509500" duration="7625000" />
       <workItem from="1684378191577" duration="4715000" />
       <workItem from="1684456644136" duration="6599000" />
-      <workItem from="1684554144261" duration="3388000" />
+      <workItem from="1684554144261" duration="3587000" />
+      <workItem from="1684644379860" duration="1104000" />
     </task>
     <servers />
   </component>
