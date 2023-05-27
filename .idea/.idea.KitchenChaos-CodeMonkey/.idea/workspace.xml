@@ -7,11 +7,8 @@
     <list default="true" id="2e5a7569-5cd9-49af-96a9-51e73031bc03" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.KitchenChaos-CodeMonkey/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KitchenChaos-CodeMonkey/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenuScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenuScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KitchenGameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/KitchenGameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/GamePauseUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/GamePauseUI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameInput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/OptionsUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/OptionsUI.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +144,7 @@
       <workItem from="1684958196228" duration="6883000" />
       <workItem from="1685042904103" duration="1248000" />
       <workItem from="1685072647674" duration="5023000" />
+      <workItem from="1685143965417" duration="2994000" />
     </task>
     <servers />
   </component>
