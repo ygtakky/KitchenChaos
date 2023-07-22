@@ -49,7 +49,7 @@ public class KitchenGameLobby : MonoBehaviour
         if (UnityServices.State != ServicesInitializationState.Initialized)
         {
             InitializationOptions initializationOptions = new InitializationOptions();
-            initializationOptions.SetProfile(Random.Range(0, 10000).ToString());
+            //initializationOptions.SetProfile(Random.Range(0, 10000).ToString());
             
             await UnityServices.InitializeAsync();
 
